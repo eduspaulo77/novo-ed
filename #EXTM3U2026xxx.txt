@@ -1,0 +1,128 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://goo.gl/vrZ3mg"
+
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP1
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP1 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP2 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP3 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP4 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP5 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP6 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP7 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP8 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP9 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP10 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP11 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP11.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP12 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP12.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP13 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP13.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP14 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP14.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP15 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP15.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP16 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP16.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP17 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP17.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP18 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP18.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP19 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP19.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP20 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP20.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP3
+https://www.blogger.com/video-play.mp4?contentId=36b394bc24ae9062
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP4
+https://www.blogger.com/video-play.mp4?contentId=92a2a216cd9c0938
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP5
+https://www.blogger.com/video-play.mp4?contentId=c801f3caa6736f6f
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP6
+https://www.blogger.com/video-play.mp4?contentId=447e6a3fef1374f6
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP7
+https://www.blogger.com/video-play.mp4?contentId=905ab01cf980093
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP8
+https://www.blogger.com/video-play.mp4?contentId=d1025b96e730fc64
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP9
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST02EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP1-2
+http://ic-b3624a00-01a82f-5bjdobr.s.loris.llnwd.net.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/VKGST05EP01-02.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP3
+http://ic-b3624a00-01a82f-5bjdobr.s.loris.llnwd.net.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/VKGST05EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP4
+http://s.vstreaming.net/tvshows/vikings/s05e04-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP5
+http://s.vstreaming.net/tvshows/vikings/s05e05-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP6
+http://cloud.popfilmeshd.net/SERIES/DUBLADO/VIKINGS/VIKINGS06DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP7
+http://cloud.popfilmeshd.net/popfilmes/SERIES/DUBLADO/VIKINGS/VIKINGS07DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP8
+http://cloud.popfilmeshd.net/popfilmes//SERIES/DUBLADO/VIKINGS/VIKINGS08DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP1-2 (LEG)
+http://zeus.netcine.tv/httpdelivery/vkgs/05leg/01e02-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP3 (LEG)
+http://zeus.netcine.tv/httpdelivery/vkgs/05leg/03-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP4 (LEG)
+http://zeus.netcine.tv/httpdelivery/vkgs/05leg/04-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP5 (LEG)
+http://zeus.netcine.tv/httpdelivery/vkgs/05leg/05-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP6 (LEG)
+http://origin.ntcdn.us/content/httpdelivery/vkgs/05leg/06-ALTO.mp4
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP10
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST02EP10.mp4
