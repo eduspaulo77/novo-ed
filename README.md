@@ -1,0 +1,35 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://goo.gl/vrZ33mg"
+
+#EXTM3U
+
+################################################################# ESPORTES
+
+#EXTINF:- 1 tvg-id="SporTV1" tvg-name="SporTV1" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV", SporTV HD
+https://manotv.s.gy/Sp1/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN", ESPN HD
+http://45.162.64.114:80/ESPN_BRASIL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" grupo-título="Canais | LUTAS", UFC Fightpass
+https://manotv.s.gy/Uftv/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE", Premiere Clubes FHD
+https://manotv.s.gy/Pr01/index.m3u8
+
+#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Canais | ESPORTES", GE TV (TCL TV) https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES", Cazé TV
+HD https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/720p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3V3GMDh.png" group-title="Canais | ESPORTES",XSports
+http://168.205.87.198:8555/live/1354/123456/309.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RSHGmuX.png" grupo-title="Canais | "ESPORTES", Desempedido HD
+https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bEA7KyI.png" grupo-título="Canais | ESPORTES", Acelerados
+https://cc-zvni27dp2ukyu.akamaized.net/ogc/acel/acel.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uoPNiM1.png" group-title="Canais | ESPORTES", Uhuu
+http://gerenciar.vivatele.com/viva_padrao/viva2384/73
