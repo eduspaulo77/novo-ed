@@ -33,11 +33,13 @@ https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bEA7KyI.png" grupo-título="Canais | ESPORTES", Acelerados
 https://cc-zvni27dp2ukyu.akamaized.net/ogc/acel/acel.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j91PkWC.png" group-title="Canais | ESPORTES",Canal Goat
+https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uoPNiM1.png" group-title="Canais | ESPORTES", Uhuu
 http://gerenciar.vivatele.com/viva_padrao/viva2384/73
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j91PkWC.png" group-title="Canais | ESPORTES",Canal Goat
-https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
+
 
 
 
